@@ -1,0 +1,7 @@
+convert -verbose -density 500 -resize 800 a.pdf a.png
+
+convert a.png -resize 200x200 a2.png 
+#resize 
+
+file a.png
+#display details about the image, including size

@@ -1,0 +1,7 @@
+pandoc -f markdown -t html5 -o output.html input.md -c style.css
+
+#-f: filetype makrdown 
+#-t: to filetype
+#-o: target html
+*.md: source md file
+#-c .css file if there is any

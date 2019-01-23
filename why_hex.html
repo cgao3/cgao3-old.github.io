@@ -1,0 +1,37 @@
+<p>The game of Hex was first described to public by polymath <a href="https://en.wikipedia.org/wiki/Piet_Hein_(scientist)">Piet Hein</a> in 1942 under the name Polygon.</p>
+<h3 id="principle-idea">Principle idea</h3>
+<p>Piet Hein followed several principles to design the new game:</p>
+<ol type="1">
+<li><p>Fair: means both player shall have equal chance to win.</p></li>
+<li><p>Progressive: game positions do not reappear.</p></li>
+<li><p>Final: guarantee to have limited number of moves to end.</p></li>
+<li><p>Comprehensible rules: beginners should be able to know how to play quickly.</p></li>
+<li><p>Strategic: must be versatile in its possibilities for combination.</p></li>
+<li><p>Decisive: never end with a draw.</p></li>
+</ol>
+<h3 id="first-design">First design</h3>
+<p>Piet Hein's initial idea was a game in a <a href="https://en.wikipedia.org/wiki/Quadrilateral">quadrilateral</a> board, where two players (like two groups of armies in battle field) each is assigned two opposite sides. Player alternately places their stones at square cells in the board. Player who joins its two sides by a line wins the game. Indeed, on a <a href="https://en.wikipedia.org/wiki/Planar_graph">planar graph</a>, the underlying topological property of Hex is also the basis of the <a href="https://en.wikipedia.org/wiki/Four_color_theorem">four color theorem</a>, which was proven in 1976. Piet Hein initially considered a board with square cells, but one could quickly realize that in such a game, undesired situation could happen,</p>
+<p>Instead of square cells, in 1942, Piet Hein finished the game after seeing that the mutual-blocking problem can be solved if they are replaced with hexagonal cells. He chose 11x11 diamond board shape, and the design is complete.</p>
+<p><img src="./imgs/grid2.png" title="A failure design for the game of Hex" /> <img src="imgs/Hex-board-11x11.jpg" title="11x11 Hex proposed by Piet Hein" /> <img src="imgs/grid_nash2.png" title="Board format originally described by John Nash, playing at intersections" /></p>
+<p>Middle picture from: https://en.wikipedia.org/wiki/Hex_(board_game)</p>
+<h3 id="reinvention-by-john-nash">Reinvention by John Nash</h3>
+<p>Six years later, in 1948, <a href="">John Nash</a> at Princeton reinvented the game with the grid format where stones are placed at intersections, similar to the game of Go. <a href="https://en.wikipedia.org/wiki/David_Gale">David Gale</a> soon converted it into a more natural hexagonal style.</p>
+<p>Nash then proved by <a href="https://en.wikipedia.org/wiki/Strategy-stealing_argument">strategy stealing argument</a> that, from the empty board, there exists a first player winning strategy. Yet theoretic value for each individual opening is unknown. As such, a <em>swap</em> rule is introduced, which says the second player has the option to <em>steal</em> the first player's first move at the second player's first turn (equivalent to swap colors).</p>
+<h3 id="playing-hex-is-hard">Playing Hex is hard</h3>
+<p>Hex has extremely simple rules, but this does not make the game simple to play! Just watch a few games played by two strong computer Hex players, can you follow the strategies?</p>
+<p><img src="imgs/ezo-mohex-2018-11x11-04.png" title="Ezo vs MoHex, MoHex won" /> <img src="imgs/mohex-ezo-2018-11x11-05.png" title="MoHex vs Ezo, MoHex won" /></p>
+<p>Visit <a href="https://webdocs.cs.ualberta.ca/~hayward/">Prof. Ryan Hayward's homepage</a> for more about the game of Hex.</p>
+<h3 id="complexity-aspects-of-hex">Complexity aspects of Hex</h3>
+<p>Solving arbitrary Hex position is <a href="https://en.wikipedia.org/wiki/PSPACE-complete">PSPACE-complete</a>, since Hex is equivalent to Quantified SAT.</p>
+<p><a href="https://en.wikipedia.org/wiki/True_quantified_Boolean_formula">QSAT</a> is a fundamental problem that is believed to be harder than NP-complete.</p>
+<p><a href="http://beyondnp.org/">Beyond NP</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Alternating_Turing_machine">Alternating Turning Machine</a></p>
+<p><a href="https://en.wikipedia.org/wiki/PPAD_(complexity)">Computing Nash-equilibrium in general two-player zero-sum game is PPAD-complete</a></p>
+<h3 id="mathematical-aspects-of-hex">Mathematical aspects of Hex</h3>
+<p><a href="http://web.mit.edu/sp.268/www/hex-notes.pdf">Hex theorem</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Brouwer_fixed-point_theorem">Brouwer fixed point</a></p>
+<h3 id="artificial-intelligence-in-hex">Artificial Intelligence in Hex</h3>
+<ol type="1">
+<li><p>Solving Hex</p></li>
+<li><p>Playing Hex</p></li>
+</ol>
