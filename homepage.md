@@ -19,13 +19,6 @@ I am currently a part-time research intern at [Borealis AI](https://www.borealis
 
 ### [WHY the game of Hex](why_hex.html)
 
-
-[comment]: <> ( #### Education )
-[comment]: <> ( + Ph.D. student, Department of Computing Science, University of Alberta. 2015 – 2019 (Expected). Supervisors: Dr. Martin Müller and Dr. Ryan Hayward. )
-
-[comment]: <> ( + M.Sc. Computer Science, University of Science and Technology of China, 2012 – 2015. Supervisor:  Dr.   Jinlong  Li.   I  worked  on  practical  algorithms  for  solving  hard combinatorial optimization problems, collaborating with Dr.  Thomas Weise and Dr.  Xin Yao. I was a member of USTC-Birmingham Joint Research Institute in Intelligent Computation and Its Applications (UBRI). )
-
-[comment]: <> ( + B.S. Computer Software, Nanchang University, 2008 – 2012. GPA Rank: 1st of 197.)
 ### Programming Skills
 Programming Language: C++, Java, C, Python, Linux Shell, TensorFlow, PyTorch.
 
