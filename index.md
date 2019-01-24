@@ -5,7 +5,6 @@
 Edmonton, Alberta
 Canada, T6G 2E8.
 Email: cgao3 AT ualberta.ca
-Phone: (+1) 780 885 9544
 
 ### Biography
 I am a PhD student at the Department of Computing Science, co-supervised by [Prof. Martin Mueller](https://webdocs.cs.ualberta.ca/~mmueller/) and [Prof. Ryan Hayward](https://webdocs.cs.ualberta.ca/~hayward/). 
@@ -14,7 +13,7 @@ I received my M.S. degree in 2015 from the [Department of Computer Science and T
 
 
 ### Research 
-I have a wide interest in all aspects of Artificial Intelligence and Operations Research.  
+I have a wide interest in various aspects of Artificial Intelligence and Operations Research.  
 I am currently a part-time research intern at [Borealis AI](https://www.borealisai.com/en/) at Edmonton. 
 
 ### [WHY the game of Hex](./WhyHex.md)
@@ -22,11 +21,9 @@ I am currently a part-time research intern at [Borealis AI](https://www.borealis
 ### Programming Skills
 Programming Language: C++, Java, C, Python, Linux Shell, TensorFlow, PyTorch.
 
-[Github](https://github.com/cgao3) 
-
-### Awards
- - 2017 Computer Olympiad Hex (13x13) Tournament Champion. 
- - 2018 Computer Olympiad Hex (13x13 and 11x11) Tournament Champion. 
+### Competition Awards
+ - 2017 Computer Olympiad, Hex Tournament Champion. 
+ - 2018 Computer Olympiad, Hex Tournament Champion. 
  - 2018 [Pommerman Competition](https://www.pommerman.com/) at NeurIPS (NIPS), top 2 learning agents, prized with one NVIDIA V GPU (32GB CEO Edition). 
 
 ### Publications 
@@ -49,3 +46,4 @@ Programming Language: C++, Java, C, Python, Linux Shell, TensorFlow, PyTorch.
    - I was recongnized as an outstanding reviewer, [certificate](OutstandingReviewerEJOR.pdf).
 - PC member [IJCAI-ECAI 2018](https://www.ijcai-18.org/).
    - I was recongnized as a [distinguished reviewer](https://www.ijcai-18.org/distinguished-members/).  
+- PC member [IJCAI 2019](https://www.ijcai-19.org/).
