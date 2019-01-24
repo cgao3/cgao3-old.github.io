@@ -45,4 +45,4 @@ Programming Language: C++, Java, C, Python, Linux Shell, TensorFlow, PyTorch.
    - I was recongnized as an outstanding reviewer, [certificate](OutstandingReviewerEJOR.pdf).
 - PC member [IJCAI-ECAI 2018](https://www.ijcai-18.org/).
    - I was recongnized as a [distinguished reviewer](https://www.ijcai-18.org/distinguished-members/).  
-- PC member [IJCAI 2019](https://www.ijcai-19.org/).
+- PC member [IJCAI 2019](https://ijcai19.org/).
