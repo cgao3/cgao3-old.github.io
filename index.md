@@ -17,7 +17,7 @@ I received my M.S. degree in 2015 from the [Department of Computer Science and T
 I have a wide interest in all aspects of Artificial Intelligence and Operations Research.  
 I am currently a part-time research intern at [Borealis AI](https://www.borealisai.com/en/) at Edmonton. 
 
-### [WHY the game of Hex](why_hex.html)
+### [WHY the game of Hex](./WhyHex.md)
 
 ### Programming Skills
 Programming Language: C++, Java, C, Python, Linux Shell, TensorFlow, PyTorch.
