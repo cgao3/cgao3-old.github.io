@@ -1,4 +1,4 @@
-### Chao Gao 
+## Chao Gao 
 #### Ph.D Student
 
 [Department of Computing Science, University of Alberta](http://cs.ualberta.ca).
@@ -29,8 +29,7 @@ Programming Language: C++, Java, C, Python, Linux Shell, TensorFlow, PyTorch.
 ### Publications 
 
 + UAlberta
-	+ Chao Gao, Siqi Yan, Ryan Hayward, Martin Mueller. [A transferable neural network for Hex](https://webdocs.cs.ualberta.ca/~mmueller/ps/2018/2018-cg-transferable-network.pdf) 
-	In Computer Games 2018. **At 21st Computer Olympiad, our program MoHex3HNN based on three-head net and transfer learning (128 filters per layer, 10 residual blocks, iteratively trained on ~0.4 million self-play generated games) won 11x11 and 13x13 Hex tournaments against DeepEzo from Japan. DeepEzo was trained using minimax search based RL for several millions of games. Note that in comparison to MoHex3HNN and DeepEzo, previous champion program MoHex 2.0 is now a weak baseline.** See report [Hex 2018: MoHex3HNN over DeepEzo](http://webdocs.cs.ualberta.ca/~hayward/papers/taiwan18.pdf)
+	+ Chao Gao, Siqi Yan, Ryan Hayward, Martin Mueller. [A transferable neural network for Hex](https://webdocs.cs.ualberta.ca/~mmueller/ps/2018/2018-cg-transferable-network.pdf) CG2018. **At 21st Computer Olympiad, our program MoHex3HNN based on three-head net and transfer learning (128 filters per layer, 10 residual blocks, iteratively trained on ~0.4 million self-play generated games) won 11x11 and 13x13 Hex tournaments against DeepEzo from Japan. DeepEzo was trained using minimax search based RL for several millions of games. Note that in comparison to MoHex3HNN and DeepEzo, previous champion program MoHex 2.0 is now a weak baseline.** See report [Hex 2018: MoHex3HNN over DeepEzo](http://webdocs.cs.ualberta.ca/~hayward/papers/taiwan18.pdf)
     + Chao Gao, Martin Mueller, Ryan Hayward. [Three-Head Neural Network Architecture for Monte Carlo Tree Search](https://www.ijcai.org/proceedings/2018/0523.pdf). IJCAI-ECAI 2018.  
     + Chao Gao, Martin Mueller, Ryan Hayward. [Adversarial Policy Gradient for Alterating Markov Games](https://openreview.net/forum?id=ByINFNJDz). Sixth International Conference on Learning Representations (ICLR 2018), Workshop track, 2018.  
     + Chao Gao, Ryan Hayward, Martin Mueller. [Move Prediction using Deep Convolutional Neural Networks in Hex](https://ieeexplore.ieee.org/document/8226781/). IEEE Transaction on Games, 2017. 
