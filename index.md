@@ -14,7 +14,6 @@ I received my M.S. degree in 2015 from the [Department of Computer Science and T
 
 ### Research 
 I have a wide interest in various aspects of Artificial Intelligence and Operations Research.  
-I am currently a part-time research intern at [Borealis AI](https://www.borealisai.com/en/) at Edmonton. 
 
 ### [WHY the game of Hex](./WhyHex.md)
 
@@ -24,7 +23,7 @@ Programming Language: C++, Java, C, Python, Linux Shell, TensorFlow, PyTorch.
 ### Competition Awards
  - 2017 Computer Olympiad, Hex Tournament Champion. 
  - 2018 Computer Olympiad, Hex Tournament Champion. 
- - 2018 [Pommerman Competition](https://www.pommerman.com/) at NeurIPS (NIPS), top 2 learning agents, prized with one NVIDIA V GPU (32GB CEO Edition). 
+ - 2018 [Pommerman Competition](https://www.pommerman.com/) at NeurIPS (NIPS), top 2 learning agents, prized with one NVIDIA V GPU (32GB CEO Edition), worked done as a part-time intern at Borealis AI at Edmonton.  
 
 ### Publications 
 
