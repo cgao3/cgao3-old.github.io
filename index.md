@@ -9,7 +9,7 @@ Email: cgao3 AT ualberta.ca
 ### Biography
 I am a PhD student at the Department of Computing Science, co-supervised by [Prof. Martin Mueller](https://webdocs.cs.ualberta.ca/~mmueller/) and [Prof. Ryan Hayward](https://webdocs.cs.ualberta.ca/~hayward/). 
 
-I received my M.S. degree in 2015 from the [Department of Computer Science and Technology from University of Science and Technology of China](http://cs.ustc.edu.cn), where I worked at [USTC-Birming Joint Research Institute in Intelligent Computation and Its Applications](http://ubri.ustc.edu.cn/).
+I received my M.S. degree in 2015 from the [Department of Computer Science and Technology from University of Science and Technology of China](http://cs.ustc.edu.cn), where I worked at [USTC-Birmingam Joint Research Institute in Intelligent Computation and Its Applications](http://ubri.ustc.edu.cn/).
 
 
 ### Research 
