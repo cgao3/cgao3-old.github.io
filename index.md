@@ -36,9 +36,9 @@ Programming Language: C++, Java, C, Python, Linux Shell, TensorFlow, PyTorch.
     + Xuebin Qin, Vincent Zhang, Chenyang Huang, Masood Dehghan, Chao Gao, Martin Jagersand. [BASNet: Boundary Aware Salient Object Detection](#). Accepted, [CVPR 2019](http://cvpr2019.thecvf.com/). 
     
 + USTC
-    + Chao Gao, Guanzhou Lu, Xin Yao, Jinlong Li. [A Pseudo-gap Enumeration Approach for the Multidimensional Multiple-choice Knapsack Problem](https://www.sciencedirect.com/science/article/abs/pii/S0377221716309675). European Journal of Operational Research, 260.1 (2017): 1-11. [author's version](./posts/OR/IPGE.pdf). 
+    + Chao Gao, Guanzhou Lu, Xin Yao, Jinlong Li. [A Pseudo-gap Enumeration Approach for the Multidimensional Multiple-choice Knapsack Problem](https://www.sciencedirect.com/science/article/abs/pii/S0377221716309675). European Journal of Operational Research, 260.1 (2017): 1-11. [author's version](./posts/OR/IPGE.pdf), [source code](./posts/OR/scp.zip). 
 
-    + Chao Gao, Xin Yao, Thomas Weise, Jinlong Li. [An efficient local search heuristic with row-weighting for the unicost set covering problem](https://www.sciencedirect.com/science/article/abs/pii/S0377221715004282). European Journal of Operational Research, 246.3 (2015): 750-761. [author's version](./posts/OR/RWLS.pdf); [source code](./posts/OR/mmkp_ipge.zip).
+    + Chao Gao, Xin Yao, Thomas Weise, Jinlong Li. [An efficient local search heuristic with row-weighting for the unicost set covering problem](https://www.sciencedirect.com/science/article/abs/pii/S0377221715004282). European Journal of Operational Research, 246.3 (2015): 750-761. [author's version](./posts/OR/RWLS.pdf), [source code](./posts/OR/mmkp_ipge.zip).
 
 ### Academic Services
 - Reviewer of [European Journal of Operational Research](https://www.journals.elsevier.com/european-journal-of-operational-research/)
