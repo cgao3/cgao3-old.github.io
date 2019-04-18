@@ -16,7 +16,7 @@ include:
 theme: jekyll-theme-minimal
 
 title: CHAO GAO
-description: Personal website 
+description: University of Alberta 
 logo: ./chao_gao_hanzi.png
 show_downloads: false
 google_analytics: [Your Google Analytics tracking ID]
