@@ -15,5 +15,8 @@ include:
 
 theme: jekyll-theme-minimal
 
-title: [The title of your site]
+title: [CHAO GAO ./chao_gao_hanzi.png]
 description: [A short description of your site's purpose]
+logo: [./UA-logo.png]
+show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
