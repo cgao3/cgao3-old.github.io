@@ -15,8 +15,8 @@ include:
 
 theme: jekyll-theme-minimal
 
-title: ./chao_gao_hanzi.png
-description: A short description of your site's purpose
-logo: ./UA-logo.png
+title: CHAO GAO
+description: Personal website 
+logo: ./chao_gao_hanzi.png
 show_downloads: false
 google_analytics: [Your Google Analytics tracking ID]
