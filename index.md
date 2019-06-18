@@ -23,7 +23,7 @@ Programming Language: C++, Java, C, Python, Linux Shell, TensorFlow, PyTorch.
 ### Competition Awards
  - 2017 Computer Olympiad, Hex Tournament **Champion**. 
  - 2018 Computer Olympiad, Hex Tournament **Champion**. 
- - 2018 [Pommerman Competition](https://www.pommerman.com/) at NeurIPS (NIPS), **top 2 learning agents**, prized with one NVIDIA V GPU (32GB CEO Edition), worked done as a part-time intern at Borealis AI at Edmonton.  
+ - 2018 [Pommerman Competition](https://www.pommerman.com/) at NeurIPS (NIPS), **top 2 learning agents**, prized with one NVIDIA V GPU (32GB CEO Edition), worked done as a part-time intern at Borealis AI at Edmonton, collaborated with [Pablo Hernandez-Leal](https://scholar.google.com/citations?user=ubp1GHsAAAAJ&hl=en), [Bilal Kartal](https://scholar.google.com/citations?user=Q9hKzEwAAAAJ&hl=en), [Matthew E. Taylor](https://scholar.google.com/citations?user=edQgLXcAAAAJ&hl=en). 
 
 ### Publications 
 
