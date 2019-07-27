@@ -28,13 +28,13 @@ Programming Language: C++, Java, C, Python, Linux Shell, TensorFlow, PyTorch.
 ### Publications 
 
 + UAlberta
-    + Chao Gao, Bilal Kartal, Pablo Hernandez Leal and Matthew Taylor. [On Hard Exploration for Reinforcement Learning: A Case Study in Pommerman](#), Accepted to AIIDE 2019 (ORAL 25% acceptance rate). 
+    + Chao Gao, Bilal Kartal, Pablo Hernandez Leal and Matthew Taylor. [On Hard Exploration for Reinforcement Learning: A Case Study in Pommerman](#), AIIDE 2019 (ORAL 25% acceptance rate). 
     + Chao Gao, Siqi Yan, Ryan Hayward, Martin Mueller. [A transferable neural network for Hex](https://webdocs.cs.ualberta.ca/~mmueller/ps/2018/2018-cg-transferable-network.pdf) CG2018. **At 21st Computer Olympiad, our program MoHex3HNN based on three-head net and transfer learning (128 filters per layer, 10 residual blocks, iteratively trained on ~0.4 million self-play generated games) won 11x11 and 13x13 Hex tournaments against DeepEzo from Japan.** DeepEzo was trained using minimax search based RL for several millions of games. Note that in comparison to MoHex3HNN and DeepEzo, previous champion program MoHex 2.0 is now a weak baseline. See report [Hex 2018: MoHex3HNN over DeepEzo](http://webdocs.cs.ualberta.ca/~hayward/papers/taiwan18.pdf)
     + Chao Gao, Martin Mueller, Ryan Hayward. [Three-Head Neural Network Architecture for Monte Carlo Tree Search](https://www.ijcai.org/proceedings/2018/0523.pdf). IJCAI-ECAI 2018.  
     + Chao Gao, Martin Mueller, Ryan Hayward. [Adversarial Policy Gradient for Alterating Markov Games](https://openreview.net/forum?id=ByINFNJDz). Sixth International Conference on Learning Representations (ICLR 2018), Workshop track, 2018.  
     + Chao Gao, Ryan Hayward, Martin Mueller. [Move Prediction using Deep Convolutional Neural Networks in Hex](https://ieeexplore.ieee.org/document/8226781/). IEEE Transaction on Games, 2017. 
     + Chao Gao, Ryan Hayward, Martin Mueller. [Focused depth-first proof number search using convolutional neural networks for the game of Hex](https://www.ijcai.org/proceedings/2017/513). Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI-2017). 
-    + Xuebin Qin, Vincent Zhang, Chenyang Huang, Masood Dehghan, Chao Gao, Martin Jagersand. [BASNet: Boundary Aware Salient Object Detection](#). Accepted, [CVPR 2019](http://cvpr2019.thecvf.com/). 
+    + Xuebin Qin, Vincent Zhang, Chenyang Huang, Chao Gao, Masood Dehghan, Martin Jagersand. [BASNet: Boundary Aware Salient Object Detection](http://openaccess.thecvf.com/content_CVPR_2019/papers/Qin_BASNet_Boundary-Aware_Salient_Object_Detection_CVPR_2019_paper.pdf). CVPR 2019. [source code](#https://github.com/NathanUA/BASNet). 
     
 + USTC
     + Chao Gao, Guanzhou Lu, Xin Yao, Jinlong Li. [A Pseudo-gap Enumeration Approach for the Multidimensional Multiple-choice Knapsack Problem](https://www.sciencedirect.com/science/article/abs/pii/S0377221716309675). European Journal of Operational Research, 260.1 (2017): 1-11. [author's version](./posts/OR/IPGE.pdf), [source code](./posts/OR/mmkp_ipge.zip). 
