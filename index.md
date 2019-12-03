@@ -17,6 +17,8 @@ I have a wide interest in various aspects of Artificial Intelligence and Operati
 
 ### [WHY the game of Hex](./WhyHex.md)
 
+### [Why Hex should be considered by post-AlphaGo/Zero AI research] (./posts/GameAI/why_hex.pdf)
+
 ### Programming Skills
 Programming Language: C++, Java, C, Python, Linux Shell, TensorFlow, PyTorch.
 
