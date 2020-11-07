@@ -1,16 +1,15 @@
 ## Chao Gao 
-#### Ph.D Student
+#### Researcher, Huawei Canada Research Center in Edmonton 
 
-[Department of Computing Science, University of Alberta](http://cs.ualberta.ca).
+
 Edmonton, Alberta
 Canada, T6G 2E8.
-Email: cgao3 AT ualberta.ca
+Email: cgao3 AT ualberta.ca 
 
 ### Biography
-I am a PhD student at the Department of Computing Science, co-supervised by [Prof. Martin Mueller](https://webdocs.cs.ualberta.ca/~mmueller/) and [Prof. Ryan Hayward](https://webdocs.cs.ualberta.ca/~hayward/). 
 
-I received my M.S. degree in 2015 from the [Department of Computer Science and Technology from University of Science and Technology of China](http://cs.ustc.edu.cn), where I worked at [USTC-Birmingam Joint Research Institute in Intelligent Computation and Its Applications](http://ubri.ustc.edu.cn/).
-
+I obtained my PhD degree from the
+[Department of Computing Science, University of Alberta](http://cs.ualberta.ca), co-supervised by [Prof. Martin Mueller](https://webdocs.cs.ualberta.ca/~mmueller/) and [Prof. Ryan Hayward](https://webdocs.cs.ualberta.ca/~hayward/).
 
 ### Research 
 I have a wide interest in various aspects of Artificial Intelligence and Operations Research.  
@@ -44,6 +43,7 @@ Programming Language: C++, Java, C, Python, Linux Shell, TensorFlow, PyTorch.
     + Chao Gao, Xin Yao, Thomas Weise, Jinlong Li. [An efficient local search heuristic with row-weighting for the unicost set covering problem](https://www.sciencedirect.com/science/article/abs/pii/S0377221715004282). European Journal of Operational Research, 246.3 (2015): 750-761. [author's version](./posts/OR/RWLS.pdf),  [source code](./posts/OR/scp.zip).
 
 ### Academic Services
+- PC member [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)
 - PC member [AAAI 2020](https://aaai.org/Conferences/AAAI-20/)
 - PC member [IJCAI 2019](https://ijcai19.org/).
 - Reviewer of [European Journal of Operational Research](https://www.journals.elsevier.com/european-journal-of-operational-research/)
